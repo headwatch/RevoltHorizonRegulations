@@ -194,11 +194,9 @@
 # Штатное приложение
 Согласно п. 6.1, приведённая ниже документация является неотъемлемой частью настоящего Регламента и обладает равной с ним силой:
 
-1. Манифест сообщества «Горизонт»: https://github.com/headwatch/RevoltHorizonManifesto/blob/main/Manifesto.md
+1. Манифест сообщества «Горизонт»: https://github.com/headwatch/RevoltHorizonManifesto/releases/tag/1v.12c (Manifesto.md)
 
-2. Документация архитектуры голосований SVA V. RH: https://github.com/headwatch/StratifiedVotingArchitecture/blob/main/VersionArch/RHArchitecture.md 
-
-3. Стандарт ACI: https://github.com/headwatch/StratifiedVotingArchitecture/blob/main/VersionArch/ACI/RHACI
+2. Документация архитектуры голосований SVA V. RH и ACI: https://github.com/headwatch/StratifiedVotingArchitecture/releases/tag/1v.45c (VersionArch/SVA-V-RH.md)
 
 *Примечание о локальных компонентах (АСУ):*
 *Поскольку техническая реализация Автоматизированных Систем Управления (АСУ) зависит от специфики конкретной Площадки, ссылки на исходный код локальной АСУ, пользовательские инструкции и прочая информация размещаются непосредственно в информационных разделах (каналах) той Площадки, на которой вы находитесь.*
