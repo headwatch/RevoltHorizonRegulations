@@ -196,7 +196,7 @@
 
 1. Манифест сообщества «Горизонт»: https://github.com/headwatch/RevoltHorizonManifesto/releases/tag/1v.12c (Manifesto.md)
 
-2. Документация архитектуры голосований SVA V. RH и ACI: https://github.com/headwatch/StratifiedVotingArchitecture/releases/tag/2v.46c (VersionArch/SVA-V-RH.md)
+2. Документация архитектуры голосований SVA V. RH и ACI: https://github.com/headwatch/StratifiedVotingArchitecture/releases/tag/3v.47c (VersionArch/SVA-V-RH.md)
 
 *Примечание о локальных компонентах (АСУ):*
 *Поскольку техническая реализация Автоматизированных Систем Управления (АСУ) зависит от специфики конкретной Площадки, ссылки на исходный код локальной АСУ, пользовательские инструкции и прочая информация размещаются непосредственно в информационных разделах (каналах) той Площадки, на которой вы находитесь.*
